@@ -1,4 +1,4 @@
-# Food Tracker
+# TriFuel+ platforme
 
 ## Project setup
 
